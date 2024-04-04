@@ -1,0 +1,11 @@
+import { useRoute } from "vue-router";
+
+let codigo = ref(route.params.cod);
+let etiqueta = ref(route.params.et);
+
+watch(() => route.params, (newParams) => {
+  // Actualizar el valor del parámetro cuando cambian los parámetros de la ruta
+  codigo.value = newParams.cod;
+  etiqueta.value = newParams.et;
+  carga_lista(codigo.value);
+});

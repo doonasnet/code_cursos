@@ -1,0 +1,55 @@
+[
+    {
+        "categoria": "Head",
+        "gists":[
+            {
+                "titulo_gist":"Meta comunes",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "HTML",
+                        "codigo":"meta_comunes"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"No Cache",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "HTML",
+                        "codigo":"no_cache"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Imágenes",
+        "gists":[
+            {
+                "titulo_gist":"Icon",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "HTML",
+                        "codigo":"icon"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Picture",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "HTML",
+                        "codigo":"picture"
+                    }
+                ]                
+            }
+        ]
+
+    }
+    
+
+]

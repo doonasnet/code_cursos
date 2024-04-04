@@ -1,0 +1,9 @@
+let api_url = "";
+let data = new FormData();
+data.append("dp_sid", 1);
+fetch(api_url, { method: "post", body: data })
+.then(res => res.json())
+.then(el => {
+    console.log(el);
+})
+.catch(err => { console.log(err.message) });

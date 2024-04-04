@@ -1,0 +1,112 @@
+[
+    {
+        "categoria": "Fetch",
+        "gists":[
+            {
+                "titulo_gist":"Fetch get",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"fetch_get"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Fetch post",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"fetch_post"
+                    }
+                ]                
+            }
+        ]
+
+    },
+    {
+        "categoria": "Window",
+        "gists":[
+            {
+                "titulo_gist":"Desplazamiento suave",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"desplazamiento_suave"
+                    }
+                ]                
+            }
+        ]
+
+    },
+    {
+        "categoria": "Temporizadores",
+        "gists":[
+            {
+                "titulo_gist":"Set Timeout",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"settimeout"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Set Interval",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"setinterval"
+                    }
+                ]                
+            }
+        ]
+
+    },
+    {
+        "categoria": "Math",
+        "gists":[
+            {
+                "titulo_gist":"Random",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"random"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Texto",
+        "gists":[
+            {
+                "titulo_gist":"Crea Slug",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"crea_slug"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Capitalize",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"capitalize"
+                    }
+                ]                
+            }
+        ]
+    }
+    
+
+]
