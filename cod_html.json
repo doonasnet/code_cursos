@@ -49,7 +49,27 @@
             }
         ]
 
+    },
+    {
+        "categoria": "Librerias",
+        "gists":[
+            {
+                "titulo_gist":"Add Bootstrap",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "CSS",
+                        "codigo":"add_bootstap_css"
+                    },
+                    {
+                        "descripcion": "JS",
+                        "codigo":"add_bootstap_js"
+                    }
+                ]                
+            }
+        ]
     }
+    
     
 
 ]
