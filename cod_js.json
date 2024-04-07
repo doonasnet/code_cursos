@@ -13,6 +13,16 @@
                 ]                
             },
             {
+                "titulo_gist":"Operador ternario",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"ternario"
+                    }
+                ]                
+            },
+            {
                 "titulo_gist":"switch",
                 "descripcion_gist": "",
                 "fragmentos":[

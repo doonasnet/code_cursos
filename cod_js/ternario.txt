@@ -1,0 +1,3 @@
+let edad = 20;
+let esMayor = edad >= 18 ? "Sí" : "No";
+console.log(esMayor);
