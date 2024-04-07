@@ -1,5 +1,30 @@
 [
     {
+        "categoria": "Condiconales",
+        "gists":[
+            {
+                "titulo_gist":"if else",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"ifelse"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"switch",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"switch"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
         "categoria": "Iteradores",
         "gists":[
             {
