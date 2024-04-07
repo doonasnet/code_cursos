@@ -61,6 +61,16 @@
                         "codigo":"map"
                     }
                 ]                
+            },
+            {
+                "titulo_gist":"filter",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"filter"
+                    }
+                ]                
             }
         ]
     },
