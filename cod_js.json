@@ -51,6 +51,16 @@
                         "codigo":"foreach"
                     }
                 ]                
+            },
+            {
+                "titulo_gist":"map",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"map"
+                    }
+                ]                
             }
         ]
     },
