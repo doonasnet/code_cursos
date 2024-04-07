@@ -28,6 +28,21 @@
         "categoria": "Iteradores",
         "gists":[
             {
+                "titulo_gist":"for",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"for"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
+        "categoria": "Array",
+        "gists":[
+            {
                 "titulo_gist":"forEach",
                 "descripcion_gist": "",
                 "fragmentos":[
