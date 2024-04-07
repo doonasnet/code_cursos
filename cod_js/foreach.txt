@@ -1,5 +1,5 @@
 let dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
 dias.forEach((d, i) => {
   let x = i + ": " + d; 
-   alert(x);
+  console.log(x);
 });

@@ -1,5 +1,20 @@
 [
     {
+        "categoria": "Iteradores",
+        "gists":[
+            {
+                "titulo_gist":"forEach",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"foreach"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
         "categoria": "Fetch",
         "gists":[
             {
@@ -23,23 +38,6 @@
                 ]                
             }
         ]
-
-    },
-    {
-        "categoria": "Window",
-        "gists":[
-            {
-                "titulo_gist":"Desplazamiento suave",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "JS",
-                        "codigo":"desplazamiento_suave"
-                    }
-                ]                
-            }
-        ]
-
     },
     {
         "categoria": "Temporizadores",
@@ -65,7 +63,6 @@
                 ]                
             }
         ]
-
     },
     {
         "categoria": "Math",
@@ -81,32 +78,6 @@
                 ]                
             }
         ]
-    },
-    {
-        "categoria": "Texto",
-        "gists":[
-            {
-                "titulo_gist":"Crea Slug",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "JS",
-                        "codigo":"crea_slug"
-                    }
-                ]                
-            },
-            {
-                "titulo_gist":"Capitalize",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "JS",
-                        "codigo":"capitalize"
-                    }
-                ]                
-            }
-        ]
-    }
-    
+    }    
 
 ]
