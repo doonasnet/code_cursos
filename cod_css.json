@@ -13,6 +13,16 @@
                 ]                
             },
             {
+                "titulo_gist":"Resetear Links",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "CSS",
+                        "codigo":"reset_links"
+                    }
+                ]                
+            },
+            {
                 "titulo_gist":"Contenedor",
                 "descripcion_gist": "",
                 "fragmentos":[
