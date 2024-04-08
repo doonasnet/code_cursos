@@ -1,4 +1,28 @@
 [
-  
+    {
+        "categoria": "Código base",
+        "gists":[
+            {
+                "titulo_gist":"Iniciar CSS",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "CSS",
+                        "codigo":"css_ini"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Contenedor",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "CSS",
+                        "codigo":"contenedor"
+                    }
+                ]                
+            }
+        ]
+    }
 
 ]
