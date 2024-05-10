@@ -31,6 +31,16 @@
                         "codigo":"container"
                     }
                 ]                
+            },
+            {
+                "titulo_gist":"Media Bootstrap",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "CSS",
+                        "codigo":"media_bootstrap"
+                    }
+                ]                
             }
         ]
     }
